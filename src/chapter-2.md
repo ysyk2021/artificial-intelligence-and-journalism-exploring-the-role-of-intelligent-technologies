@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 To understand the role of artificial intelligence (AI) in journalism, it is essential to have a foundational understanding of what AI is and how it works. In this chapter, we will explore the history of AI, the different types of AI, and some of the machine learning techniques that are commonly used in AI applications.
 

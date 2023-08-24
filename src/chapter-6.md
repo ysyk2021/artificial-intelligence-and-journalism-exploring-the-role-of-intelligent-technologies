@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Journalism
-===============================================================
 
 As the use of artificial intelligence (AI) in journalism continues to grow, it is important to consider the ethical and legal implications of these technologies. In this chapter, we will explore some of the key issues related to the use of AI in journalism, including ethics and legal considerations.
 

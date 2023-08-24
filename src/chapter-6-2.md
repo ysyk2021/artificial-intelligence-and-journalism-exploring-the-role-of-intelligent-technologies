@@ -1,5 +1,3 @@
-Legal Considerations
-=====================================================================================
 
 The use of artificial intelligence (AI) in journalism gives rise to a number of important legal issues that must be taken into account. In this chapter, we will explore the key legal considerations related to the use of AI in journalism.
 

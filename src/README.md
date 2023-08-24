@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial Intelligence (AI) is transforming the way journalism is practiced, from news gathering to reporting and audience engagement. This book, "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," aims to provide a comprehensive overview of the impact of AI on the journalism industry.
 

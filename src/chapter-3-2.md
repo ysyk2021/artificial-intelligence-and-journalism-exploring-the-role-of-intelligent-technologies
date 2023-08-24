@@ -1,5 +1,3 @@
-Components of Journalism
-=========================================================
 
 Journalism plays a crucial role in informing and shaping public opinion. It involves the gathering, processing, and dissemination of news and information to a wide audience. In this chapter, we will explore the various components of journalism, including its key players, processes, and ethical considerations.
 

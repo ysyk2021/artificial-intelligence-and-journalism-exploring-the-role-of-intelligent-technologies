@@ -1,5 +1,3 @@
-News Gathering and Verification
-===========================================================================
 
 In addition to automated reporting and writing, artificial intelligence (AI) is also being used to help journalists gather and verify news. From social media monitoring to fact-checking, AI-powered tools are helping journalists to quickly and accurately report on breaking news events.
 

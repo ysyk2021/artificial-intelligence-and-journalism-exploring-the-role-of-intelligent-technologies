@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) has a rich and varied history, dating back to ancient times. However, modern AI research began in the mid-20th century, and since then, there have been many important milestones and breakthroughs in the field.
 

@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Journalism
-======================================
 
 As artificial intelligence (AI) continues to evolve, the role of these technologies in journalism is likely to become increasingly important. In this chapter, we will explore some of the emerging trends and future prospects for AI in journalism.
 

@@ -1,5 +1,3 @@
-Chapter 3: Journalism Landscape
-===============================
 
 To understand the role of artificial intelligence (AI) in journalism, it is helpful to first take a closer look at the broader landscape of the industry. In this chapter, we will explore some of the key global trends in news consumption and distribution, as well as the components of journalism itself.
 

@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 Artificial intelligence (AI) is transforming many industries, and journalism is no exception. As AI technologies become more sophisticated and powerful, they are increasingly being used to aid in news gathering, reporting, and distribution. This book, "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," aims to explore the ways in which AI is currently being used in journalism, as well as the potential future implications of these technologies.
 

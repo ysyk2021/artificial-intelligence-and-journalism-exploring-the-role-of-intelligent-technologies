@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Journalism Solutions
-==========================================
 
 In this chapter, we will explore some of the specific ways in which artificial intelligence (AI) is being used to power journalism solutions. From news gathering and verification to automated reporting and writing, AI is transforming the way that journalists work and the types of stories they are able to cover.
 

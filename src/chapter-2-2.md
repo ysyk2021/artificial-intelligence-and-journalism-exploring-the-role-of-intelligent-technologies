@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) is a broad field that encompasses a wide range of technologies and techniques. One way to categorize different types of AI is by their level of intelligence and autonomy. In this chapter, we will explore some of the key types of AI.
 

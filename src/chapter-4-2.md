@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Journalism
-===================================================================================
 
 Artificial Intelligence (AI) is transforming the field of journalism, offering new opportunities for news gathering, reporting, and analysis. However, there are also a number of challenges and limitations to using AI in journalism. In this chapter, we will explore some of these challenges and consider how they can be overcome.
 

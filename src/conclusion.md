@@ -1,4 +1,3 @@
-# Conclusion
 
 In this book, we have explored the role of artificial intelligence (AI) in journalism, including the various ways in which AI is being used in news gathering, reporting, and distribution. We have also examined the benefits, limitations, and potential risks associated with the use of AI in journalism.
 

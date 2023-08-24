@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Journalism
-===================================
 
 Artificial intelligence (AI) is rapidly transforming many industries, and journalism is no exception. In this chapter, we will explore the role of AI in journalism, including its benefits, challenges, and limitations.
 

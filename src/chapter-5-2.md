@@ -1,5 +1,3 @@
-Automated Reporting and Writing
-===========================================================================
 
 One of the most promising applications of artificial intelligence (AI) in journalism is automated reporting and writing. AI-powered tools are already being used to generate news articles from data, such as financial reports and sports scores.
 

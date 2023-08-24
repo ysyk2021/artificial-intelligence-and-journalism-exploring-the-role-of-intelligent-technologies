@@ -1,5 +1,3 @@
-Benefits of AI in Journalism
-=================================================================
 
 Artificial intelligence (AI) is changing the way that journalism is practiced, with new technologies and tools making it easier for journalists to gather, process, and disseminate news and information. In this chapter, we will explore some of the key benefits of AI in journalism.
 

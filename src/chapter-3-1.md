@@ -1,5 +1,3 @@
-Global Trends in News Consumption and Distribution
-===================================================================================
 
 The journalism landscape is constantly evolving, with new technologies and changing consumer habits shaping the ways in which news is consumed and distributed. In this chapter, we will explore some of the key global trends in news consumption and distribution, and examine how artificial intelligence (AI) is being used to improve the delivery of news to audiences around the world.
 

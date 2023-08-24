@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that encompasses a wide range of techniques and technologies. One of the most important subfields of AI is machine learning, which involves the use of algorithms to learn from data and make predictions or decisions based on that data.
 

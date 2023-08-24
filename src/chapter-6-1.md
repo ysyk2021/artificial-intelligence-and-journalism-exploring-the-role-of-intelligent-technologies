@@ -1,5 +1,3 @@
-Ethics of Using AI in Journalism
-=================================================================================================
 
 The use of artificial intelligence (AI) in journalism is a topic that raises a number of important ethical and legal questions. In this chapter, we will explore the key ethical considerations that must be taken into account when using AI in journalism.
 

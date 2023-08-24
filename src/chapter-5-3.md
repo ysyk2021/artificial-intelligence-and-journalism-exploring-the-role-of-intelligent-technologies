@@ -1,5 +1,3 @@
-Audience Analysis and Engagement
-============================================================================
 
 One of the greatest benefits of using artificial intelligence (AI) in journalism is the ability to gain insights into audience behavior and preferences. In this chapter, we will explore how AI can be used to analyze audience data and improve audience engagement.
 

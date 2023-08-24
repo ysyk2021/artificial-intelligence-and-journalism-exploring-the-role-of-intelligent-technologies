@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Journalism
-===========================================================================
 
 Artificial intelligence (AI) is a rapidly growing field that has the potential to transform many aspects of our lives, including journalism. In recent years, AI has been increasingly used in news gathering, reporting, and distribution, leading to many new opportunities and challenges for journalists and media organizations.
 
