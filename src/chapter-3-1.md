@@ -1,5 +1,4 @@
-Chapter: Global Trends in News Consumption and Distribution
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter examines the global trends in news consumption and distribution in the digital age. It explores how artificial intelligence (AI) technologies have influenced these trends, transforming how people consume and access news worldwide.
 

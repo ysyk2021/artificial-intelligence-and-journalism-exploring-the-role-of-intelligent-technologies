@@ -1,5 +1,4 @@
-Chapter: Ethics of Using AI in Journalism
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter delves into the ethical considerations surrounding the use of artificial intelligence (AI) in journalism. It explores the potential ethical challenges and provides guidelines for responsible and accountable AI practices within the field.
 

@@ -1,5 +1,4 @@
-Chapter: History of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter provides an overview of the history of artificial intelligence (AI) and its evolution over time. It explores key technological milestones and breakthroughs that have shaped the development of AI, highlighting their impact on modern journalism.
 

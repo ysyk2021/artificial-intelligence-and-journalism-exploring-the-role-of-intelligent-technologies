@@ -1,5 +1,4 @@
-Chapter: Audience Analysis and Engagement
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter explores the importance of audience analysis and engagement in journalism and how artificial intelligence (AI) technologies can enhance these processes. It delves into the various techniques and tools used for audience analysis and discusses strategies to improve audience engagement in the digital age.
 

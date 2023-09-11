@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter provides an overview of the different types of artificial intelligence (AI) and their applications in journalism. It explores the three main branches of AI, namely, narrow or weak AI, general AI, and super AI, and how they have been implemented in modern newsrooms.
 

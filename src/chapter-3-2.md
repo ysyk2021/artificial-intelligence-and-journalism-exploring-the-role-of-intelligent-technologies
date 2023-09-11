@@ -1,5 +1,4 @@
-Chapter: Components of Journalism
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter delves into the fundamental components of journalism and examines how artificial intelligence (AI) technologies are transforming each aspect. It explores the core elements of journalism, including news gathering, storytelling, fact-checking, and audience engagement, and analyzes how AI is revolutionizing these components.
 

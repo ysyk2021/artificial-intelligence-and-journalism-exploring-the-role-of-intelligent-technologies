@@ -1,5 +1,4 @@
-Chapter: Machine Learning Techniques
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter delves into various machine learning techniques used in the field of artificial intelligence (AI) and their applications in journalism. It explores the core concepts behind machine learning algorithms, key methodologies, and their role in enhancing news gathering and reporting processes.
 

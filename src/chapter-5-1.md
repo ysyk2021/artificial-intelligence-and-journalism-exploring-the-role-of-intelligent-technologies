@@ -1,5 +1,4 @@
-Chapter: News Gathering and Verification
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter explores the role of artificial intelligence (AI) technologies in news gathering and verification processes. It delves into the various AI-powered tools and techniques used in journalism to collect reliable information, verify sources, and enhance the accuracy of news reporting.
 

@@ -1,5 +1,4 @@
-Chapter: Automated Reporting and Writing
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter explores the advancements in automated reporting and writing through the integration of artificial intelligence (AI) technologies. It delves into the various AI-powered tools and techniques used in newsrooms to automate the process of generating news articles, enhancing efficiency, and expanding coverage.
 

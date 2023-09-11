@@ -1,5 +1,4 @@
-Chapter: Challenges and Limitations of AI in Journalism
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter explores the challenges and limitations associated with the use of artificial intelligence (AI) in journalism. It highlights key obstacles that journalists and news organizations may face when adopting AI technologies and provides insights into potential solutions to address these challenges.
 

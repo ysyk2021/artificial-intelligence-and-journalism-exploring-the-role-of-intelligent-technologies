@@ -1,5 +1,4 @@
-Chapter: Legal Considerations
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the book "Artificial Intelligence and Journalism: Exploring the Role of Intelligent Technologies in News Gathering and Reporting," this chapter focuses on legal considerations related to the use of intelligent technologies in journalism. It explores the legal challenges and implications that arise when integrating artificial intelligence (AI) into news gathering, content creation, and distribution processes.
 
