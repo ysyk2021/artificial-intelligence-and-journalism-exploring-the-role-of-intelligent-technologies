@@ -1,9 +1,10 @@
-book
 _book/
+*.doc
 node_modules/
 *.docx
-*.epub
+book
 *.pdf
 *.azw3
 *.zip
 *.mobi
+*.epub
